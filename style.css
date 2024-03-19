@@ -1,7 +1,7 @@
-body{
-    padding: 20px;
-    margin: 50px;
-    background-color: antiquewhite;
-
+#lateral{
+    height: 240vh;
+    
 }
-
+#nav{
+    background-color: #00b247;
+}
