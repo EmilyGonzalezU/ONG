@@ -1,5 +1,5 @@
 #lateral{
-<<<<<<< HEAD
+
     height: 200px;
     
 }
@@ -41,11 +41,16 @@
 
 #cardBtn{
     background-color:#ff9800 ;
-=======
-    height: 240vh;
-    
 }
-#nav{
-    background-color: #00b247;
->>>>>>> bad3082f0d932e2adeefe305c9122262bd81e032
+
+#cardBtn:hover{
+    background-color: #ffba6a;
+    border: auto black;
+}
+
+#carouselExampleIndicators{
+    font-family: "Battambang", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    justify-content: start;
 }
