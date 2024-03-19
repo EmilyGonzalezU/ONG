@@ -1,7 +1,51 @@
 #lateral{
+<<<<<<< HEAD
+    height: 200px;
+    
+}
+#nav{
+    background-color: #ff9800;
+    font-family: "Battambang", system-ui;
+   
+}
+
+#title{
+    font-family: "Battambang", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#subTitle{
+    font-family: "Battambang", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+#parr{
+    font-family: "Battambang", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#card{
+    font-family: "Battambang", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#navbarNav{
+
+    justify-content: space-between;
+    font-family: "Battambang", system-ui;
+}
+
+#cardBtn{
+    background-color:#ff9800 ;
+=======
     height: 240vh;
     
 }
 #nav{
     background-color: #00b247;
+>>>>>>> bad3082f0d932e2adeefe305c9122262bd81e032
 }
